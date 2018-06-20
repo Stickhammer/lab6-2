@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Minigame</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="memberData.js"></script>
+    <script src="main.js"></script>
+</head>
+<body>
+    <table id="gameTable">
+        <tr>
+            <th width="1000"><h1 id="H1">不知道</h1></th>
+            <th width="1000"><h1>我要去右下角</h1></th>
+        </tr>
+        <tr>
+            <td width="1000">
+                <!--<h1 id="H1">不知道</h1>-->
+                <input type="button" value="選誰？">
+                <ul id="choices"></ul>
+            </td>
+            <td width="1000">
+                <div>
+                    <!--<h1>我要去右下角</h1>-->
+                    <canvas id="myCanvas" width="600" height="600"></canvas>
+                    <p id="talkBox">nothing</p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

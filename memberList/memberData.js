@@ -1,0 +1,39 @@
+var memberList = [
+    {
+        "name":"詹朝旭",
+        "imgsrc":"memberList/imageList/詹朝旭.png",
+    },
+    {
+        "name":"郭昱廷",
+        "imgsrc":"memberList/imageList/郭昱廷.png",
+    },
+    {
+        "name":"陳駿綱",
+        "imgsrc":"memberList/imageList/陳駿綱.png",
+    },
+    {
+        "name":"林瑞桀",
+        "imgsrc":"memberList/imageList/林瑞桀.png",
+    },
+    {
+        "name":"陳怡廷",
+        "imgsrc":"memberList/imageList/陳怡廷.png",
+    },
+    {
+        "name":"陸冠廷",
+        "imgsrc":"memberList/imageList/陸冠廷.png",
+    },
+    {
+        "name":"孫婉媗",
+        "imgsrc":"memberList/imageList/孫婉媗.png",
+    },
+    {
+        "name":"施宏旻",
+        "imgsrc":"memberList/imageList/施宏旻.png",
+    },
+    {
+        "name":"蕭聖峰",
+        "imgsrc":"memberList/imageList/蕭聖峰.png",
+    }
+
+];
